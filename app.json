@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "SpendProof",
+    "slug": "spend-proof",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0f1923"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTabletMode": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0f1923"
+      },
+      "package": "com.spendproof.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "nativewind/babel",
+      [
+        "expo-router",
+        {
+          "origin": "/"
+        }
+      ]
+    ]
+  }
+}
