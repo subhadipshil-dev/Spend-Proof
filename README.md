@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="assets/icon.png" alt="SpendProof Logo" width="100" height="100" />
+
 
 # 🛒 SpendProof
 ### *Shop Smart. Stay Proof.*
+<img width="4096" height="2298" alt="SpendProof Header Github" src="https://github.com/user-attachments/assets/7795d4e7-03fa-4f41-afe4-d649f78a2ba2" />
 
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)
 ![Platform](https://img.shields.io/badge/platform-Android-blue)
